@@ -1,0 +1,8 @@
+language: node_js
+node_js:
+  - 6
+before_install:
+  - currentfolder=${PWD##*/}
+  - if [ "$currentfolder" != 'generator-git' ]; then cd .. && eval "mv $currentfolder generator-git" && cd generator-git; fi
+script:
+  - npm run test
