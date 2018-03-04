@@ -2,7 +2,7 @@ import { setAddon, configure } from '@storybook/react'
 import { setOptions } from '@storybook/addon-options'
 import JSXAddon from 'storybook-addon-jsx'
 
-const { name, homepage: url } = require('../pkg')
+const { name, homepage: url } = require('../package.json')
 
 function loadStories () {
   require('../stories')
