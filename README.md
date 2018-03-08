@@ -21,7 +21,7 @@
 
 - Check your code is correctly linted.
 - Check your dependencies is up to date with [ncu](https://www.npmjs.com/package/npm-check-updates).
-- Create a deploy preview using [Netlify](https://www.netlify.com/)
+- Create a deploy preview using [Netlify](https://www.netlify.com).
 
 ### on production
 
