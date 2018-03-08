@@ -8,6 +8,26 @@
 
 > Create a React library project scaffold.
 
+## Features
+
+### on development
+
+- Write moden JavaScript code transpiled by [Babel](https://babeljs.io).
+- Lint and pretty your code in each commit using [Standard](https://standardjs.com) & [Prettier])https://prettier.io).
+
+### on testing
+
+> **Note**: Remember connect your repository with [Travis](https://travis-ci.org) & [Netlify](https://www.netlify.com).
+
+- Check your code is correctly linted.
+- Check your dependencies is up to date with [ncu](https://www.npmjs.com/package/npm-check-updates).
+- Create a deploy preview using [Netlify](https://www.netlify.com/)
+
+### on production
+
+- Compiles into ES2015+ code using [babel-preset-env](https://github.com/babel/babel-preset-env).
+- Create multibundle (ES, CJS, UMD) using [microbundle](https://github.com/developit/microbundle).
+
 ## Install
 
 First, install Yeoman:
