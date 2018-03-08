@@ -13,7 +13,7 @@
 ### on development
 
 - Write moden JavaScript code transpiled by [Babel](https://babeljs.io).
-- Lint and pretty your code in each commit using [Standard](https://standardjs.com) & [Prettier])https://prettier.io).
+- Lint and pretty your code in each commit using [Standard](https://standardjs.com) & [Prettier](https://prettier.io).
 
 ### on testing
 
