@@ -28,6 +28,8 @@
 - Compiles into ES2015+ code using [babel-preset-env](https://github.com/babel/babel-preset-env).
 - Create multibundle (ES, CJS, UMD) using [microbundle](https://github.com/developit/microbundle).
 
+The best part is... it just works, you don't need to think about that, just in your code.
+
 ## Install
 
 First, install Yeoman:
