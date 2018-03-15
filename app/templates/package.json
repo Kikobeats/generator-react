@@ -4,7 +4,7 @@
   "homepage": "https://documentup.com/<%= userLogin %>/<%= appName %>",
   "version": "0.0.0",
   "main": "lib/index.js",
-   "module": "lib/index.m.js",
+  "module": "lib/index.m.js",
   "author": {
     "email": "<%= userEmail %>",
     "name": "<%= userName %>",
@@ -17,6 +17,7 @@
   "keywords": [],
   "dependencies": {},
   "devDependencies": {
+    "@storybook/addon-centered": "latest",
     "@storybook/addon-options": "latest",
     "@storybook/addon-viewport": "latest",
     "@storybook/react": "latest",
@@ -38,11 +39,11 @@
     "npm-check-updates": "latest",
     "prettier-standard": "latest",
     "prop-types": "latest",
-    "react": "^16",
     "react-dom": "^16",
+    "react": "^16",
     "size-limit": "latest",
-    "standard": "latest",
     "standard-markdown": "latest",
+    "standard": "latest",
     "storybook-addon-jsx": "latest"
   },
   "engines": {
