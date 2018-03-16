@@ -91,6 +91,7 @@ module.exports = class extends Generator {
 
   copyFiles () {
     forEach([
+      '.babelrc',
       '.bumpedrc',
       '.editorconfig',
       '.gitattributes',
