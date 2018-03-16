@@ -1,3 +1,10 @@
+<a name="1.0.2"></a>
+## 1.0.2 (2018-03-16)
+
+* Remove size and ncu ([1725321](https://github.com/Kikobeats/generator-react/commit/1725321))
+
+
+
 <a name="1.0.1"></a>
 ## 1.0.1 (2018-03-15)
 
