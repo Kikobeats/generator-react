@@ -1,3 +1,12 @@
+<a name="1.0.3"></a>
+## 1.0.3 (2018-03-16)
+
+* Add git hooks ([dfb0daa](https://github.com/Kikobeats/generator-react/commit/dfb0daa))
+* Add precommit hook ([36c1dbc](https://github.com/Kikobeats/generator-react/commit/36c1dbc))
+* Tweaks ([a8f9394](https://github.com/Kikobeats/generator-react/commit/a8f9394))
+
+
+
 <a name="1.0.2"></a>
 ## 1.0.2 (2018-03-16)
 
