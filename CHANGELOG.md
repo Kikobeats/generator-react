@@ -1,3 +1,10 @@
+<a name="1.0.4"></a>
+## 1.0.4 (2018-03-16)
+
+* Update release script ([a388876](https://github.com/Kikobeats/generator-react/commit/a388876))
+
+
+
 <a name="1.0.3"></a>
 ## 1.0.3 (2018-03-16)
 
