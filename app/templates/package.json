@@ -65,6 +65,10 @@
       "finepack",
       "git add"
     ],
+    "*.md": [
+      "standard-markdown",
+      "git add"
+    ],
     "*.js": [
       "prettier-standard",
       "git add"
