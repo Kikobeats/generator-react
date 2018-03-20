@@ -1,3 +1,10 @@
+<a name="1.0.5"></a>
+## 1.0.5 (2018-03-20)
+
+* Add markdown linter ([fbca0db](https://github.com/Kikobeats/generator-react/commit/fbca0db))
+
+
+
 <a name="1.0.4"></a>
 ## 1.0.4 (2018-03-16)
 
