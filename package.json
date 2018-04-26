@@ -2,7 +2,7 @@
   "name": "@kikobeats/generator-react",
   "description": "Create a React library project scaffold",
   "homepage": "https://documentup.com/kikobeats/generator-react",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "main": "app/index.js",
   "author": {
     "email": "josefrancisco.verdu@gmail.com",

@@ -1,3 +1,10 @@
+<a name="1.0.6"></a>
+## 1.0.6 (2018-04-26)
+
+* Update .babelrc ([7e62deb](https://github.com/Kikobeats/generator-react/commit/7e62deb))
+
+
+
 <a name="1.0.5"></a>
 ## 1.0.5 (2018-03-20)
 
