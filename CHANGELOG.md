@@ -1,3 +1,10 @@
+<a name="1.0.7"></a>
+## 1.0.7 (2018-07-19)
+
+* Update dependencies ([0e5638f](https://github.com/Kikobeats/generator-react/commit/0e5638f))
+
+
+
 <a name="1.0.6"></a>
 ## 1.0.6 (2018-04-26)
 
